@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>No!</title>
+    <style>
+        body {
+            background-color: lightcoral;
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        h1 {
+            font-size: 3em;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <h1>Elke dag haat ik je wat meer.</h1>
+</body>
+</html>
